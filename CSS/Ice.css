@@ -1,0 +1,58 @@
+ body {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(170, 206, 97);
+    color: #696969;
+    padding: 3px;
+  }
+
+  #main {
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+  }
+
+  h1 {
+      font-family: Georgia, serif;
+      border-bottom: 3x solid #cc9900;
+      color: #996600;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: forestgreen;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blueviolet;
+}
